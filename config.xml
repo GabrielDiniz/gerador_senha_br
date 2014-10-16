@@ -27,8 +27,8 @@
 	<!-- <preference name="stay-in-webview" value="true"/> -->
 	<preference name="keepRunning" value="true" />
 	<preference name="orientation" value="portrait" />
+	<access origin="*" subdomains="true" browserOnly="true" />
 	<!-- <gap:plugin name="org.apache.cordova.device" version="0.2.8" /> -->
 	<!-- <gap:plugin name="cn.push.cordova.plugin.local-notification" version="0.7.3" /> -->
 	<!-- <gap:plugin name="de.appplant.cordova.plugin.background-mode" version="0.5.0" /> -->
-	<preference name="permissions" value="none"/>
 </widget>
